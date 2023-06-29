@@ -1,0 +1,29 @@
+img{
+    border-radius: 50%;
+}
+.side{
+    width: 15%;
+    height: 100%;
+    background-color:#80ccff;
+    padding: 5%;
+   
+    margin-right: 5%;
+    float: left;
+    text-align: center;
+}
+.left h2{
+    color: #1aa3ff;
+    text-align: center;
+}
+.left{
+    width: 80%;
+    height: 100%;
+   
+
+   
+}
+h1{font-family: 'Belanosima', sans-serif;}
+h2{font-family: 'Ubuntu', sans-serif;}
+div{font-family: 'Libre Baskerville', serif;}
+.material-symbols-outlined{display: inline-block;
+}
